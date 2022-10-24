@@ -1,2 +1,1 @@
 FLASK_APP=siteTest.py
-FLASK_ENV=development
